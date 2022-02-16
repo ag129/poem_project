@@ -12,3 +12,6 @@ I displayed this piece within the context of the class piece by encasing the ESP
 I decorated my paper container with snow, to go with the "icebox" and "cold" of the poem as well as plums. I also included the poem title and some abstract design.
 Before installing this piece, you need to upload the code onto the ESP32 TTGO T-Display, solder a connection between the battery wires and the ESP32 TTGO T-Display, and make sure the battery is fully charged. 
 My classmates displayed their pieces in a similar fashion to me, creating our group display piece. We all used white containers and black ink to create a sense of connection between the pieces.
+
+![display](https://user-images.githubusercontent.com/62814033/154198852-dc51afe9-6e31-4f83-86e0-91ef61fb18ff.jpg)
+![container](https://user-images.githubusercontent.com/62814033/154198860-48d68af7-b30f-4bf2-a788-f7584856cbac.jpg)
